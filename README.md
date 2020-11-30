@@ -1,6 +1,9 @@
 # Meme-Share-App
 An android app by which you can share meme. It is project where I have used **volley** for network call and **Glide** for Image Processing
 
+# Screenshot
+<img src="images/enjoy_meme.png" width="600">
+
 # Api Link
 ```bas
 https://meme-api.herokuapp.com/gimme
@@ -16,3 +19,4 @@ annotationProcessor 'com.github.bumptech.glide:compiler:4.11.0'
 ```bas
 implementation 'com.android.volley:volley:1.1.1'
 ```
+ 
